@@ -1,31 +1,31 @@
 # Hi 👋, I'm Aryaman
 
-🎯 Aspiring Data Analyst | Python • Pandas • SQL • Power BI  
-📊 Passionate about turning raw data into meaningful insights  
+Aspiring Data Analyst | Python • SQL • Excel • Power BI  
+Interested in turning messy datasets into clear, actionable insights.
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Science graduate
-- 📈 Interested in Data Analysis, Business Insights & Visualization
-- 🧠 Currently building hands-on projects using real-world datasets
-- 🔍 Strong focus on data cleaning, EDA, and storytelling with data
+## About Me
+- Computer Science graduate with a strong interest in data analytics
+- Enjoy working on real-world datasets and business-focused problems
+- Comfortable with data cleaning, exploratory analysis, and visualization
+- Currently building end-to-end analytics projects using Python, Excel, and Power BI
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
-**Languages & Libraries**
+**Programming & Libraries**
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 
-**Data & BI Tools**
+**Data & BI**
 - SQL
+- Excel (Pivot Tables, Power Query)
 - Power BI
-- Excel
 
 **Version Control**
 - Git
@@ -33,37 +33,39 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Project
 
-### 🎬 Netflix Content Analysis
+### Streaming Platform Content Strategy Analysis
 **Description:**  
-Performed end-to-end exploratory data analysis on Netflix’s content library to understand content trends, growth patterns, and platform strategy.
+End-to-end analysis of streaming platform content data to understand content growth, regional distribution, audience maturity, and content freshness.  
+Netflix data was used as a sample dataset, but the analysis framework is platform-agnostic.
 
-**Key Highlights:**
-- Cleaned and preprocessed real-world Netflix dataset
-- Engineered features like content age, duration, and season count
-- Analyzed trends in movies vs TV shows
-- Identified Netflix’s preference for recent and short-format content
-- Created insightful visualizations using Python
+**What I worked on:**
+- Cleaned and transformed raw data using Python (Pandas)
+- Normalized multi-country fields and handled missing values
+- Performed exploratory data analysis using Matplotlib
+- Built Pivot Tables and summaries in Excel for validation
+- Designed an interactive Power BI dashboard for storytelling
+- Segmented content into Legacy, Not Recent, and Recent categories
 
 🔗 **Project Repository:**  
-👉 https://github.com/your-username/netflix_project
+👉 https://github.com/your-username/streaming_platform_content_strategy_analysis
 
 ---
 
-## 📊 What I Focus On
-- Data Cleaning & Feature Engineering
+## What I Focus On
+- Data cleaning and preparation
 - Exploratory Data Analysis (EDA)
-- Insight Generation
-- Data Visualization
-- Business-oriented analysis
+- Feature engineering
+- Clear and simple visualizations
+- Business-oriented insights
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/your-username
+## Connect With Me
+- GitHub: https://github.com/your-username  
 - LinkedIn: (add when ready)
 
 ---
 
-⭐ Feel free to explore my repositories and give feedback!
+Thanks for checking out my work. Feedback and suggestions are always welcome.
