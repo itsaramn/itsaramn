@@ -63,8 +63,8 @@ Netflix data was used as a sample dataset, but the analysis framework is platfor
 ---
 
 ## Connect With Me
-- GitHub: https://github.com/your-username  
-- LinkedIn: (add when ready)
+- GitHub: https://github.com/itsaramn 
+- LinkedIn: www.linkedin.com/in/aryaman-semta-as337
 
 ---
 
