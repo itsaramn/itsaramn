@@ -49,7 +49,7 @@ Netflix data was used as a sample dataset, but the analysis framework is platfor
 - Segmented content into Legacy, Not Recent, and Recent categories
 
 🔗 **Project Repository:**  
-👉 https://github.com/your-username/streaming_platform_content_strategy_analysis
+👉 https://github.com/itsaramn/Streaming-Platform-Content-Strategy-Analysis.git
 
 ---
 
